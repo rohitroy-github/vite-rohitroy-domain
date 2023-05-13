@@ -1,3 +1,6 @@
+// Component : Meet
+// Use : JoiningGoogleMeet
+
 import {useEffect} from "react";
 
 const Meet = () => {
