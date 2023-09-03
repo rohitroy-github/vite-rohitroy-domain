@@ -1,4 +1,4 @@
-<h3>vite-rohitroy-domain</h3>
+<h2>vite-rohitroy-domain</h2>
 
 <b>This is my domain website linking my technical stuffs posted online !</b>
 
